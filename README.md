@@ -1,5 +1,7 @@
-# mosiyuan
+# mo_little_L
 
-膜拜 Siyuan！
+膜拜 小L！
 
-[https://lmoliver.github.io/mosiyuan/](https://lmoliver.github.io/mosiyuan/index.html)
+[click here to mo little L!](https://grdrharris.github.io/mo_little_L/)
+
+forked from [mosiyuan](https://github.com/LMOliver/mosiyuan)
